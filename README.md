@@ -9,3 +9,4 @@ The different functions are embedded in a Mathematica Package :"InfoHDP.m". This
 ```
 <<InfoHDP.m`
 ```
+The application of our method in a simple example can be found in the notebook example0.nb.
